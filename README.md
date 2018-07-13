@@ -26,7 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
+=============================================================================
 # reddit_new
 I used electron and angular to build an application for grabing the latest post of the subreddit.
 user must enter the valid url of the subreddit and it will give you the title and text of the lastest post.
@@ -39,4 +39,13 @@ challenges:
 2. If I can get to use python (clearly, it didn't work) it must have been easier. 
 
 Overall it was a fun project. 
->>>>>>> ad8c14aefedf86edcddd54e7e2fd44845892a25b
+
+=============================================================================
+
+# Steps
+
+## 1. git clone this repo
+## 2. 
+npm install
+npm run electron-build
+## 3. user can input link of subreddit.
