@@ -45,7 +45,6 @@ Overall it was a fun project.
 # Steps
 
 ## 1. git clone this repo
-## 2. 
-npm install
-npm run electron-build
-## 3. user can input link of subreddit.
+## 2. $npm install
+## 3. $npm run electron-build
+## 4. user can input link of subreddit.
