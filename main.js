@@ -18,12 +18,7 @@ function createWindow(){
 	});
 
 
-	win.loadURL(url.format({
-		pathname: path.join(__dirname, 'win.html'),
-		protocol: 'file:',
-		slashes: true
-
-	}));
+  win.loadURL(`file://${__dirname}/dist/bbot/index.html`);
 
 
 
