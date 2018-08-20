@@ -5,7 +5,7 @@ import json
 
 
 # arr =[]
-reddit = praw.Reddit(client_id = '835t6BTU6Es7Qg', client_secret = 't61CZFPiRlLwNJEsa2HK7UCwDO8',user_agent='my user agent')
+reddit = praw.Reddit(client_id = '', client_secret = '',user_agent='my user agent')
 for submission in reddit.subreddit('overwatch').hot(limit=10):
 	print(submission.title)
 	print(submission.selftext)
