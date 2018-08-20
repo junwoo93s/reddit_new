@@ -48,3 +48,6 @@ Overall it was a fun project.
 ## 2. $npm install
 ## 3. $npm run electron-build
 ## 4. user can input link of subreddit.
+
+
+## 1. Or just run reddit_api_parse.py
